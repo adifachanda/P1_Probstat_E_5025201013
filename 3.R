@@ -8,7 +8,7 @@ dpois(x, lambda)
 n = 365
 hist(rpois(n, lambda), main = "Histogram Poisson")
 
-#Nomor 3c
+#Nomor 3d
 mean = lambda
 mean
 var = lambda
