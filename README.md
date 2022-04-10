@@ -43,6 +43,7 @@ a.  Mencari peluang distribusi eksponensial dengan n = 10, rate = 3 dengan mengg
 b. Membuat histogram distribusi eksponensial dengan n = 10, 100, 1000, 10000
 c. Mencari nilai rataan dan varian
 
+Hasil pengerjaan nomer 5
 ![4](https://cdn.discordapp.com/attachments/949602435100467230/962688555866529873/Screen_Shot_2022-04-10_at_15.33.45.png)
 ![4](https://cdn.discordapp.com/attachments/949602435100467230/962688555619082300/Screen_Shot_2022-04-10_at_15.33.55.png)
 ![4](https://cdn.discordapp.com/attachments/949602435100467230/962688555275153438/Screen_Shot_2022-04-10_at_15.34.05.png)
@@ -50,3 +51,27 @@ c. Mencari nilai rataan dan varian
 ![4](https://cdn.discordapp.com/attachments/949602435100467230/962690586396213278/Screen_Shot_2022-04-10_at_19.28.17.png)
 
 ## Soal No 6
+a. Mencari peluang distribusi normal dengan data acak dengan syarat P(X1 ≤ x ≤ X2) dengan menggunakan `rnorm`
+
+Hasil pengerjaan nomer 6a
+![4](https://cdn.discordapp.com/attachments/949602435100467230/962691556404518952/Screen_Shot_2022-04-10_at_19.32.12.png)
+
+Hasil dari pengerjaan no 4
+![4](https://cdn.discordapp.com/attachments/949602435100467230/962689742678425680/Screen_Shot_2022-04-10_at_19.24.30.png)
+
+## Soal No 5
+a.  Mencari peluang distribusi eksponensial dengan n = 10, rate = 3 dengan menggunakan `rexp`
+b. Membuat histogram distribusi eksponensial dengan n = 10, 100, 1000, 10000
+c. Mencari nilai rataan dan varian
+
+![4](https://cdn.discordapp.com/attachments/949602435100467230/962688555866529873/Screen_Shot_2022-04-10_at_15.33.45.png)
+![4](https://cdn.discordapp.com/attachments/949602435100467230/962688555619082300/Screen_Shot_2022-04-10_at_15.33.55.png)
+![4](https://cdn.discordapp.com/attachments/949602435100467230/962688555275153438/Screen_Shot_2022-04-10_at_15.34.05.png)
+![4](https://cdn.discordapp.com/attachments/949602435100467230/962688554792783902/Screen_Shot_2022-04-10_at_15.34.17.png)
+![4](https://cdn.discordapp.com/attachments/949602435100467230/962690586396213278/Screen_Shot_2022-04-10_at_19.28.17.png)
+
+## Soal No 6
+a. Mencari peluang distribusi normal dengan data acak dengan syarat P(X1 ≤ x ≤ X2) dengan menggunakan `rnorm`
+
+Hasil pengerjaan nomer 6a
+![4](https://cdn.discordapp.com/attachments/949602435100467230/962691556404518952/Screen_Shot_2022-04-10_at_19.32.12.png)
