@@ -1,8 +1,11 @@
+size = 20
+prob = .2
+
 #Nomor 2a
-dbinom(4, 20, .20)
+x = 4
+dbinom(x, size, prob)
 
 #Nomor 2b
-x = 4
 p = dbinom(4, 20, .20)
 plot(x,p,type='h',
       ylim=c(0,0.4),
@@ -11,7 +14,6 @@ plot(x,p,type='h',
       
 #Nomor 2c
 t = 20
-prob = .2
 mean = t * prob
 mean
 var = t * prob * (1 - prob)
