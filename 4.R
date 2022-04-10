@@ -5,7 +5,13 @@ v= 10
 dchisq(x,v,ncp=0)
 
 #Nomor 4b
-hist(rchisq(x,v,ncp=0),main="Histogram Chisquare")
+p <- rchisq(100,v)
+ 
+hist(p,
+      freq = FALSE,
+      xlim = c(0,30),
+      ylim = c(0,0.2),
+      main = "Histogram Of Chisquare")
 
 #Nomor 4c
 mean = v
