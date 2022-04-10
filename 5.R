@@ -1,7 +1,7 @@
 x = 3
 
 #Nomor 5a
-dexp(x, rate=1,log=FALSE)
+rexp(x, rate=1)
 
 #Nomor 5b
 hist(rexp(10))
